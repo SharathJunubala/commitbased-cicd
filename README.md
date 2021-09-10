@@ -5,6 +5,7 @@
 
 ```
 mvn clean package
+#just maven clean anthee..
 and build the instruction .
 ```
 
